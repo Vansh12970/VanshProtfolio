@@ -24,7 +24,7 @@ export const PROJECTS: Project[] = [
     title: 'DISHA (Disaster Information Sharing & Help Alert)',
     description: 'AI-driven disaster response with real-time alerts, sentiment analysis, and smart tracking for faster rescue coordination.',
     techStack: ['React', 'Next.js', 'Node.js', 'FastAPI', 'MongoDB', 'GCP', 'TensorFlow', 'Twilio API'],
-    imageUrl: '/DISHA.png',
+    imageUrl: '/DISHAapp.png',
     liveUrl: 'https://disha-app-zeta.vercel.app/',
     githubUrl: 'https://github.com/Vansh12970/DISHA_APP'
   },
@@ -61,7 +61,7 @@ export const PROJECTS: Project[] = [
     description: 'Personal portfolio website showcasing projects, skills, and contact info.',
     techStack: ['React', 'Tailwind CSS', 'JavaScript', 'Vite', 'EmailJS' ],
     imageUrl: '/MyPortfolio.png',
-    liveUrl: '#',
+    liveUrl: 'https://vansh-protfolio-chi.vercel.app/',
     githubUrl: 'https://github.com/Vansh12970/VanshProtfolio/blob/main/README.md'
   },
   {
