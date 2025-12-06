@@ -62,7 +62,7 @@ export const PROJECTS: Project[] = [
     techStack: ['React', 'Tailwind CSS', 'JavaScript', 'Vite', 'EmailJS' ],
     imageUrl: '/MyPortfolio.png',
     liveUrl: 'https://vansh-protfolio-chi.vercel.app/',
-    githubUrl: 'https://github.com/Vansh12970/VanshProtfolio/blob/main/README.md'
+    githubUrl: 'https://github.com/Vansh12970/VanshProtfolio'
   },
   {
     id: '6',
