@@ -44,7 +44,7 @@ const Projects: React.FC = () => {
 
               {/* Content */}
               <div className="p-6 flex flex-col flex-grow">
-                <h3 className="text-xl font-bold text-white mb-2 font-mono group-hover:text-neon transition-colors">
+                <h3 className="text-xl font-bold text-white mb-2 font-mono transition-colors">
                   {project.title}
                 </h3>
                 <p className="text-gray-400 text-sm mb-6 flex-grow">
