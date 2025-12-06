@@ -15,7 +15,7 @@ export const HERO_DATA = {
   subRole: "full-stack developer.",
   tagline: "He turns vision into scalable products engineered with clean code.",
   status: "Open for new opportunities",
-  resumeUrl: "/resume.pdf" 
+  resumeUrl: "/VANSH_Resume.pdf" 
 };
 
 export const PROJECTS: Project[] = [
