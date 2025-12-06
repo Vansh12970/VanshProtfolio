@@ -2,12 +2,13 @@
 
 A modern, high-performance developer portfolio featuring a futuristic dark theme, neon green accents, and a "hacker-style" aesthetic. Built to showcase projects, skills, and experience with smooth animations and a fully responsive design.
 
-![Project Preview]
+# Overview
+![Project Preview](assets/MyPortfolio.png)
 
 
 ##  Features
 
-*   **Futuristic Design**: Dark mode UI (`#0B0B0B`) with high-contrast Neon Green (`#21FF90`) accents.
+*   **Futuristic Design**: Dark mode UI with high-contrast Neon Green accents.
 *   **Fully Responsive**: Optimized for Mobile, Tablet, and Desktop screens.
 *   **Interactive Animations**:
     *   Typing effect in the Hero section.
@@ -72,7 +73,6 @@ VITE_EMAILJS_SERVICE_ID=your_service_id
 VITE_EMAILJS_TEMPLATE_ID=your_template_id
 VITE_EMAILJS_PUBLIC_KEY=your_public_key
 ```
-> *Note: You can get these keys for free by signing up at [EmailJS.com](https://www.emailjs.com/).*
 
 ### 4. Run the development server
 ```bash
@@ -111,3 +111,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made by Vansh Pratap Singh**
+
