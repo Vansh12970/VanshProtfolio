@@ -90,7 +90,7 @@ export const SKILLS: SkillCategory[] = [
   },
   {
     title: 'Tools & Platforms',
-    skills: ['Git/Github', 'Docker', 'Pstman', 'GCP', 'Cloudinary', 'AWS (S3, EC2)', 'Figma', 'Vercel * Render * Railway']
+    skills: ['Git/Github', 'Docker', 'Postman', 'GCP', 'Cloudinary', 'AWS (S3, EC2)', 'Figma', 'Vercel * Render * Railway']
   }
 ];
 
