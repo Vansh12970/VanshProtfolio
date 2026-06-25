@@ -21,6 +21,15 @@ export const HERO_DATA = {
 export const PROJECTS: Project[] = [
   {
     id: '1',
+    title: 'ApplyNest',
+    description: 'Our platform automatically scrapes and consolidates job and internship listings from multiple sources including LinkedIn, Adzuna, Internshala, Government job portals, and various company career websites.',
+    techStack: ['React', 'Python', 'JavaScript', 'Flask', 'APscheduler', 'Railway & Vercel', 'SQLite' ],
+    imageUrl: '/ApplyNest.png',
+    liveUrl: 'https://applynest.in/dashboard',
+    githubUrl: 'https://github.com/Vansh12970'
+  },
+  {
+    id: '2',
     title: 'DISHA (Disaster Information Sharing & Help Alert)',
     description: 'AI-driven disaster response with real-time alerts, sentiment analysis, and smart tracking for faster rescue coordination.',
     techStack: ['React', 'Next.js', 'Node.js', 'FastAPI', 'MongoDB', 'GCP', 'TensorFlow', 'Twilio API'],
@@ -29,22 +38,13 @@ export const PROJECTS: Project[] = [
     githubUrl: 'https://github.com/Vansh12970/DISHA_APP'
   },
   {
-    id: '2',
+    id: '3',
     title: 'Thakur Dealings (Vehicle Reselling Platform)',
     description: 'Thakur Dealings is a modern vehicle reselling platform built with React, Next.js, and Firebase. Made for frenchise Thakur Dealings.',
     techStack: ['React', 'Next.js', 'Firebase Hosting & Firestore', 'EmailJS'],
     imageUrl: '/ThakurDealings.png',
     liveUrl: 'https://thakur-dealings.web.app/',
     githubUrl: 'https://github.com/Vansh12970/vehicle-reselling-website'
-  },
-  {
-    id: '3',
-    title: 'ShortURL',
-    description: 'A modern URL shortener with QR support and link history management. Built using Java Spring Boot and QRCode.js.',
-    techStack: ['Java 17', 'Spring Boot', 'Spring Web', 'HTML5', 'CSS3', 'QRCode.js'],
-    imageUrl: '/ShortURL.png',
-    liveUrl: 'https://shorturl-nhsu.onrender.com/',
-    githubUrl: 'https://github.com/Vansh12970/SHORT-URL'
   },
   {
     id: '4',
@@ -57,12 +57,12 @@ export const PROJECTS: Project[] = [
   },
   {
     id: '5',
-    title: 'ApplyNest',
-    description: 'Our platform automatically scrapes and consolidates job and internship listings from multiple sources including LinkedIn, Adzuna, Internshala, Government job portals, and various company career websites.',
-    techStack: ['React', 'Python', 'JavaScript', 'Flask', 'APscheduler', 'Railway & Vercel', 'SQLite' ],
-    imageUrl: '/ApplyNest.png',
-    liveUrl: 'https://applynest.in/dashboard',
-    githubUrl: 'https://github.com/Vansh12970'
+    title: 'ShortURL',
+    description: 'A modern URL shortener with QR support and link history management. Built using Java Spring Boot and QRCode.js.',
+    techStack: ['Java 17', 'Spring Boot', 'Spring Web', 'HTML5', 'CSS3', 'QRCode.js'],
+    imageUrl: '/ShortURL.png',
+    liveUrl: 'https://shorturl-nhsu.onrender.com/',
+    githubUrl: 'https://github.com/Vansh12970/SHORT-URL'
   },
   {
     id: '6',
