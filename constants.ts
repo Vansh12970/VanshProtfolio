@@ -57,12 +57,12 @@ export const PROJECTS: Project[] = [
   },
   {
     id: '5',
-    title: 'VanshDev. Portfolio',
-    description: 'Personal portfolio website showcasing projects, skills, and contact info.',
-    techStack: ['React', 'Tailwind CSS', 'JavaScript', 'Vite', 'EmailJS' ],
-    imageUrl: '/MyPortfolio.png',
-    liveUrl: 'https://vansh-protfolio-chi.vercel.app/',
-    githubUrl: 'https://github.com/Vansh12970/VanshProtfolio'
+    title: 'ApplyNest',
+    description: 'Our platform automatically scrapes and consolidates job and internship listings from multiple sources including LinkedIn, Adzuna, Internshala, Government job portals, and various company career websites.',
+    techStack: ['React', 'Python', 'JavaScript', 'Flask', 'APscheduler', 'Railway & Vercel', 'SQLite' ],
+    imageUrl: '/ApplyNest.png',
+    liveUrl: 'https://applynest.in/dashboard',
+    githubUrl: 'https://github.com/Vansh12970'
   },
   {
     id: '6',
